@@ -255,6 +255,110 @@
       "productDifficultyLevel": "Trung cấp",
       "numProductRatings": 14126,
       "avgProductRating": 4.6
+    },
+    {
+      "id": "course~practice-01",
+      "imageUrl": "https://images.unsplash.com/photo-1581092334651-ddf26d9a09d0",
+      "name": "Thực hành lắp ráp cơ khí cơ bản",
+      "category": {
+        "name": "Kỹ năng thực hành",
+        "slug": "practice"
+      },
+      "tag": ["Thực hành", "Cơ khí"],
+      "productDifficultyLevel": "Cơ bản",
+      "numProductRatings": 12540,
+      "avgProductRating": 4.52
+    },
+    {
+      "id": "course~practice-02",
+      "imageUrl": "https://images.unsplash.com/photo-1581092160607-ee22621dd758",
+      "name": "Thực hành đấu nối điện công nghiệp",
+      "category": {
+        "name": "Kỹ năng thực hành",
+        "slug": "practice"
+      },
+      "tag": ["Thực hành", "Điện công nghiệp"],
+      "productDifficultyLevel": "Trung cấp",
+      "numProductRatings": 18320,
+      "avgProductRating": 4.61
+    },
+    {
+      "id": "course~practice-03",
+      "imageUrl": "https://images.unsplash.com/photo-1581092580497-e0d23cbdf1dc",
+      "name": "Thực hành vận hành máy CNC",
+      "category": {
+        "name": "Kỹ năng thực hành",
+        "slug": "practice"
+      },
+      "tag": ["Thực hành", "CNC"],
+      "productDifficultyLevel": "Nâng cao",
+      "numProductRatings": 9640,
+      "avgProductRating": 4.74
+    },
+    {
+      "id": "course~practice-04",
+      "imageUrl": "https://images.unsplash.com/photo-1581090700227-1e37b190418e",
+      "name": "Thực hành bảo trì và sửa chữa thiết bị",
+      "category": {
+        "name": "Kỹ năng thực hành",
+        "slug": "practice"
+      },
+      "tag": ["Thực hành", "Bảo trì"],
+      "productDifficultyLevel": "Trung cấp",
+      "numProductRatings": 14785,
+      "avgProductRating": 4.58
+    },
+    {
+      "id": "course~3d-01",
+      "imageUrl": "https://images.unsplash.com/photo-1581091215367-59ab6f6c8b8b",
+      "name": "Bài giảng 3D cấu tạo động cơ ô tô",
+      "category": {
+        "name": "Bài giảng 3D",
+        "slug": "3d-lecture"
+      },
+      "tag": ["3D", "Ô tô", "Động cơ"],
+      "productDifficultyLevel": "Cơ bản",
+      "numProductRatings": 21450,
+      "avgProductRating": 4.69
+    },
+    {
+      "id": "course~3d-02",
+      "imageUrl": "https://images.unsplash.com/photo-1581092160607-ee22621dd758",
+      "name": "Bài giảng 3D hệ thống điện công nghiệp",
+      "category": {
+        "name": "Bài giảng 3D",
+        "slug": "3d-lecture"
+      },
+      "tag": ["3D", "Điện công nghiệp"],
+      "productDifficultyLevel": "Trung cấp",
+      "numProductRatings": 16780,
+      "avgProductRating": 4.63
+    },
+    {
+      "id": "course~3d-03",
+      "imageUrl": "https://images.unsplash.com/photo-1603380353725-f8a03a4c0f22",
+      "name": "Bài giảng 3D robot công nghiệp",
+      "category": {
+        "name": "Bài giảng 3D",
+        "slug": "3d-lecture"
+      },
+      "tag": ["3D", "Robot", "Tự động hóa"],
+      "productDifficultyLevel": "Nâng cao",
+      "numProductRatings": 9830,
+      "avgProductRating": 4.76
+    },
+    {
+      "id": "course~3d-04",
+      "imageUrl": "https://images.unsplash.com/photo-1581090700227-1e37b190418e",
+      "name": "Bài giảng 3D mô phỏng dây chuyền sản xuất",
+      "category": {
+        "name": "Bài giảng 3D",
+        "slug": "3d-lecture"
+      },
+      "tag": ["3D", "Mô phỏng", "Sản xuất"],
+      "productDifficultyLevel": "Trung cấp",
+      "numProductRatings": 14210,
+      "avgProductRating": 4.57
     }
   ]
 }
