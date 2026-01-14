@@ -17,6 +17,58 @@ server.use((req, res, next) => {
   next();
 });
 
+//API get course category
+server.get("/courses/:categorySlug", (req, res) => {
+  const { categorySlug } = req.params;
+  const { _page = 1, _limit = 10 } = req.query;
+
+  const page = Number(_page);
+  const limit = Number(_limit);
+
+  const db = router.db;
+
+  const allCourses = db
+    .get("courses")
+    .filter((course) => course.category?.slug === categorySlug)
+    .value();
+
+  const total = allCourses.length;
+  const start = (page - 1) * limit;
+  const end = page * limit;
+
+  const data = allCourses.slice(start, end);
+
+  res.json({
+    data,
+    pagination: {
+      page,
+      limit,
+      total,
+    },
+  });
+});
+
+//API get course category detail
+server.get("/courses/:categorySlug/:courseId", (req, res) => {
+  const { categorySlug, courseId } = req.params;
+  const db = router.db;
+
+  const course = db
+    .get("courses")
+    .find(
+      (item) => item.id === courseId && item.category?.slug === categorySlug
+    )
+    .value();
+
+  if (!course) {
+    return res.status(404).json({
+      message: "Course not found",
+    });
+  }
+
+  res.json(course);
+});
+
 server.use(router);
 
 const PORT = 8080;

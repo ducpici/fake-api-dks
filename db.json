@@ -4,6 +4,10 @@
       "id": "course~ejOz7RDUEei99hK0xs-tsg",
       "imageUrl": "https://oto.edu.vn/wp-content/uploads/2022/06/loi-ich-khi-dai-tu-dong-co.jpg",
       "name": "Kỹ năng Tháo động cơ xăng",
+      "category": {
+        "name": "Điện công nghiệp",
+        "slug": "industrial-electric"
+      },
       "tag": ["Tháo lắp động cơ"],
       "productDifficultyLevel": "Trung cấp",
       "numProductRatings": 39214,
@@ -13,6 +17,10 @@
       "id": "course~fYuElDEgEeiCvhLLCIZW_A",
       "imageUrl": "https://funix.edu.vn/wp-content/uploads/2022/10/Robot-Ai-8.jpg",
       "name": "Kỹ năng Lập trình robot",
+      "category": {
+        "name": "Điện công nghiệp",
+        "slug": "industrial-electric"
+      },
       "tag": ["Lập trình"],
       "productDifficultyLevel": "Cơ bản",
       "numProductRatings": 18645,
@@ -22,6 +30,10 @@
       "id": "course~dW-LBifIEe2ebw7xojjXvw",
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo90HckUXqn5UHqAE54UsAUWwcPqwXyA4VCQ&s",
       "name": "Kỹ năng Lắp ráp mạch điện",
+      "category": {
+        "name": "Điện công nghiệp",
+        "slug": "industrial-electric"
+      },
       "tag": ["Lắp ráp", "Điện tử"],
       "productDifficultyLevel": "Nâng cao",
       "numProductRatings": 1385,
@@ -31,10 +43,218 @@
       "id": "s12n~xKZ-Rh0LEeaVXQ4hxYGBZw",
       "imageUrl": "https://mayphatdienviethung.com/wp-content/uploads/2021/01/bao-duong-may-phat-dien-2.jpg",
       "name": "Kỹ năng Bảo dưỡng máy phát",
+      "category": {
+        "name": "Điện công nghiệp",
+        "slug": "industrial-electric"
+      },
       "tag": ["Bảo dưỡng", "Điện tử"],
       "productDifficultyLevel": "Trung Cấp",
       "numProductRatings": 33875,
       "avgProductRating": 4.493703321033209
+    },
+    {
+      "id": "course~auto-01",
+      "imageUrl": "https://oto.edu.vn/wp-content/uploads/2022/06/loi-ich-khi-dai-tu-dong-co.jpg",
+      "name": "Kỹ năng Tháo động cơ xăng",
+      "category": { "name": "Công nghệ ô tô", "slug": "automotive-technology" },
+      "tag": ["Động cơ", "Bảo dưỡng"],
+      "productDifficultyLevel": "Trung cấp",
+      "numProductRatings": 39214,
+      "avgProductRating": 4.61
+    },
+    {
+      "id": "course~auto-02",
+      "imageUrl": "https://oto.edu.vn/wp-content/uploads/2023/03/bao-duong-o-to.jpg",
+      "name": "Bảo dưỡng hệ thống truyền động",
+      "category": { "name": "Công nghệ ô tô", "slug": "automotive-technology" },
+      "tag": ["Truyền động"],
+      "productDifficultyLevel": "Cơ bản",
+      "numProductRatings": 18452,
+      "avgProductRating": 4.48
+    },
+    {
+      "id": "course~auto-03",
+      "imageUrl": "https://oto.edu.vn/wp-content/uploads/2023/01/dien-o-to.jpg",
+      "name": "Hệ thống điện ô tô nâng cao",
+      "category": { "name": "Công nghệ ô tô", "slug": "automotive-technology" },
+      "tag": ["Điện ô tô"],
+      "productDifficultyLevel": "Nâng cao",
+      "numProductRatings": 8321,
+      "avgProductRating": 4.72
+    },
+    {
+      "id": "course~auto-04",
+      "imageUrl": "https://oto.edu.vn/wp-content/uploads/2023/02/chan-doan-o-to.jpg",
+      "name": "Chẩn đoán lỗi ô tô bằng thiết bị OBD",
+      "category": { "name": "Công nghệ ô tô", "slug": "automotive-technology" },
+      "tag": ["Chẩn đoán"],
+      "productDifficultyLevel": "Trung cấp",
+      "numProductRatings": 12540,
+      "avgProductRating": 4.65
+    },
+
+    {
+      "id": "course~mecha-01",
+      "imageUrl": "https://i.imgur.com/4Mechatronics.jpg",
+      "name": "Nhập môn Cơ điện tử",
+      "category": { "name": "Cơ điện tử", "slug": "mechatronics" },
+      "tag": ["Cơ điện tử"],
+      "productDifficultyLevel": "Cơ bản",
+      "numProductRatings": 22451,
+      "avgProductRating": 4.54
+    },
+    {
+      "id": "course~mecha-02",
+      "imageUrl": "https://i.imgur.com/PLCController.jpg",
+      "name": "PLC và hệ thống điều khiển",
+      "category": { "name": "Cơ điện tử", "slug": "mechatronics" },
+      "tag": ["PLC", "Điều khiển"],
+      "productDifficultyLevel": "Trung cấp",
+      "numProductRatings": 17894,
+      "avgProductRating": 4.66
+    },
+    {
+      "id": "course~mecha-03",
+      "imageUrl": "https://i.imgur.com/RobotArm.jpg",
+      "name": "Thiết kế cánh tay robot",
+      "category": { "name": "Cơ điện tử", "slug": "mechatronics" },
+      "tag": ["Robot"],
+      "productDifficultyLevel": "Nâng cao",
+      "numProductRatings": 9453,
+      "avgProductRating": 4.71
+    },
+    {
+      "id": "course~mecha-04",
+      "imageUrl": "https://i.imgur.com/SensorSystem.jpg",
+      "name": "Hệ thống cảm biến công nghiệp",
+      "category": { "name": "Cơ điện tử", "slug": "mechatronics" },
+      "tag": ["Cảm biến"],
+      "productDifficultyLevel": "Trung cấp",
+      "numProductRatings": 13240,
+      "avgProductRating": 4.63
+    },
+
+    {
+      "id": "course~robot-01",
+      "imageUrl": "https://i.imgur.com/IndustrialRobot.jpg",
+      "name": "Lập trình robot công nghiệp",
+      "category": { "name": "Tự động hóa robot", "slug": "robot-automation" },
+      "tag": ["Robot"],
+      "productDifficultyLevel": "Trung cấp",
+      "numProductRatings": 26890,
+      "avgProductRating": 4.69
+    },
+    {
+      "id": "course~robot-02",
+      "imageUrl": "https://i.imgur.com/RobotVision.jpg",
+      "name": "Thị giác máy cho robot",
+      "category": { "name": "Tự động hóa robot", "slug": "robot-automation" },
+      "tag": ["AI", "Vision"],
+      "productDifficultyLevel": "Nâng cao",
+      "numProductRatings": 12457,
+      "avgProductRating": 4.75
+    },
+    {
+      "id": "course~robot-03",
+      "imageUrl": "https://i.imgur.com/AGVSystem.jpg",
+      "name": "Hệ thống AGV trong nhà máy",
+      "category": { "name": "Tự động hóa robot", "slug": "robot-automation" },
+      "tag": ["AGV"],
+      "productDifficultyLevel": "Trung cấp",
+      "numProductRatings": 10421,
+      "avgProductRating": 4.58
+    },
+    {
+      "id": "course~robot-04",
+      "imageUrl": "https://i.imgur.com/RobotSafety.jpg",
+      "name": "An toàn robot công nghiệp",
+      "category": { "name": "Tự động hóa robot", "slug": "robot-automation" },
+      "tag": ["An toàn"],
+      "productDifficultyLevel": "Cơ bản",
+      "numProductRatings": 15384,
+      "avgProductRating": 4.47
+    },
+
+    {
+      "id": "course~energy-01",
+      "imageUrl": "https://i.imgur.com/SolarEnergy.jpg",
+      "name": "Hệ thống điện năng lượng mặt trời",
+      "category": { "name": "Năng lượng", "slug": "energy" },
+      "tag": ["Solar"],
+      "productDifficultyLevel": "Cơ bản",
+      "numProductRatings": 21548,
+      "avgProductRating": 4.55
+    },
+    {
+      "id": "course~energy-02",
+      "imageUrl": "https://i.imgur.com/WindEnergy.jpg",
+      "name": "Nguyên lý điện gió",
+      "category": { "name": "Năng lượng", "slug": "energy" },
+      "tag": ["Wind"],
+      "productDifficultyLevel": "Trung cấp",
+      "numProductRatings": 9874,
+      "avgProductRating": 4.62
+    },
+    {
+      "id": "course~energy-03",
+      "imageUrl": "https://i.imgur.com/SmartGrid.jpg",
+      "name": "Lưới điện thông minh",
+      "category": { "name": "Năng lượng", "slug": "energy" },
+      "tag": ["Smart Grid"],
+      "productDifficultyLevel": "Nâng cao",
+      "numProductRatings": 6842,
+      "avgProductRating": 4.73
+    },
+    {
+      "id": "course~energy-04",
+      "imageUrl": "https://i.imgur.com/EnergyStorage.jpg",
+      "name": "Hệ thống lưu trữ năng lượng",
+      "category": { "name": "Năng lượng", "slug": "energy" },
+      "tag": ["Battery"],
+      "productDifficultyLevel": "Trung cấp",
+      "numProductRatings": 11236,
+      "avgProductRating": 4.64
+    },
+
+    {
+      "id": "course~cad-01",
+      "imageUrl": "https://i.imgur.com/CADDesign.jpg",
+      "name": "Thiết kế CAD cơ khí",
+      "category": { "name": "CAD/CAM/CAE", "slug": "cad-cam-cae" },
+      "tag": ["CAD"],
+      "productDifficultyLevel": "Cơ bản",
+      "numProductRatings": 30214,
+      "avgProductRating": 4.57
+    },
+    {
+      "id": "course~cad-02",
+      "imageUrl": "https://i.imgur.com/CAMMachining.jpg",
+      "name": "Lập trình gia công CAM",
+      "category": { "name": "CAD/CAM/CAE", "slug": "cad-cam-cae" },
+      "tag": ["CAM"],
+      "productDifficultyLevel": "Trung cấp",
+      "numProductRatings": 17456,
+      "avgProductRating": 4.66
+    },
+    {
+      "id": "course~cad-03",
+      "imageUrl": "https://i.imgur.com/CAEAnalysis.jpg",
+      "name": "Phân tích CAE kết cấu",
+      "category": { "name": "CAD/CAM/CAE", "slug": "cad-cam-cae" },
+      "tag": ["CAE"],
+      "productDifficultyLevel": "Nâng cao",
+      "numProductRatings": 9234,
+      "avgProductRating": 4.74
+    },
+    {
+      "id": "course~cad-04",
+      "imageUrl": "https://i.imgur.com/CNCSystem.jpg",
+      "name": "Vận hành máy CNC",
+      "category": { "name": "CAD/CAM/CAE", "slug": "cad-cam-cae" },
+      "tag": ["CNC"],
+      "productDifficultyLevel": "Trung cấp",
+      "numProductRatings": 14126,
+      "avgProductRating": 4.6
     }
   ]
 }
