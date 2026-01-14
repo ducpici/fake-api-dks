@@ -2,7 +2,7 @@
   "courses": [
     {
       "id": "course~ejOz7RDUEei99hK0xs-tsg",
-      "imageUrl": "https://oto.edu.vn/wp-content/uploads/2022/06/loi-ich-khi-dai-tu-dong-co.jpg",
+      "imageUrl": "https://picsum.photos/300/200?random=1",
       "name": "Kỹ năng Tháo động cơ xăng",
       "category": {
         "name": "Điện công nghiệp",
@@ -15,7 +15,7 @@
     },
     {
       "id": "course~fYuElDEgEeiCvhLLCIZW_A",
-      "imageUrl": "https://funix.edu.vn/wp-content/uploads/2022/10/Robot-Ai-8.jpg",
+      "imageUrl": "https://picsum.photos/300/200?random=1",
       "name": "Kỹ năng Lập trình robot",
       "category": {
         "name": "Điện công nghiệp",
@@ -28,7 +28,7 @@
     },
     {
       "id": "course~dW-LBifIEe2ebw7xojjXvw",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo90HckUXqn5UHqAE54UsAUWwcPqwXyA4VCQ&s",
+      "imageUrl": "https://picsum.photos/300/200?random=1",
       "name": "Kỹ năng Lắp ráp mạch điện",
       "category": {
         "name": "Điện công nghiệp",
@@ -41,7 +41,7 @@
     },
     {
       "id": "s12n~xKZ-Rh0LEeaVXQ4hxYGBZw",
-      "imageUrl": "https://mayphatdienviethung.com/wp-content/uploads/2021/01/bao-duong-may-phat-dien-2.jpg",
+      "imageUrl": "https://picsum.photos/300/200?random=1",
       "name": "Kỹ năng Bảo dưỡng máy phát",
       "category": {
         "name": "Điện công nghiệp",
@@ -54,7 +54,7 @@
     },
     {
       "id": "course~auto-01",
-      "imageUrl": "https://oto.edu.vn/wp-content/uploads/2022/06/loi-ich-khi-dai-tu-dong-co.jpg",
+      "imageUrl": "https://picsum.photos/300/200?random=1",
       "name": "Kỹ năng Tháo động cơ xăng",
       "category": { "name": "Công nghệ ô tô", "slug": "automotive-technology" },
       "tag": ["Động cơ", "Bảo dưỡng"],
@@ -64,7 +64,7 @@
     },
     {
       "id": "course~auto-02",
-      "imageUrl": "https://oto.edu.vn/wp-content/uploads/2023/03/bao-duong-o-to.jpg",
+      "imageUrl": "https://picsum.photos/300/200?random=1",
       "name": "Bảo dưỡng hệ thống truyền động",
       "category": { "name": "Công nghệ ô tô", "slug": "automotive-technology" },
       "tag": ["Truyền động"],
@@ -74,7 +74,7 @@
     },
     {
       "id": "course~auto-03",
-      "imageUrl": "https://oto.edu.vn/wp-content/uploads/2023/01/dien-o-to.jpg",
+      "imageUrl": "https://picsum.photos/300/200?random=1",
       "name": "Hệ thống điện ô tô nâng cao",
       "category": { "name": "Công nghệ ô tô", "slug": "automotive-technology" },
       "tag": ["Điện ô tô"],
@@ -84,7 +84,7 @@
     },
     {
       "id": "course~auto-04",
-      "imageUrl": "https://oto.edu.vn/wp-content/uploads/2023/02/chan-doan-o-to.jpg",
+      "imageUrl": "https://picsum.photos/300/200?random=1",
       "name": "Chẩn đoán lỗi ô tô bằng thiết bị OBD",
       "category": { "name": "Công nghệ ô tô", "slug": "automotive-technology" },
       "tag": ["Chẩn đoán"],
@@ -95,7 +95,7 @@
 
     {
       "id": "course~mecha-01",
-      "imageUrl": "https://i.imgur.com/4Mechatronics.jpg",
+      "imageUrl": "https://picsum.photos/300/200?random=1",
       "name": "Nhập môn Cơ điện tử",
       "category": { "name": "Cơ điện tử", "slug": "mechatronics" },
       "tag": ["Cơ điện tử"],
@@ -105,7 +105,7 @@
     },
     {
       "id": "course~mecha-02",
-      "imageUrl": "https://i.imgur.com/PLCController.jpg",
+      "imageUrl": "https://picsum.photos/300/200?random=1",
       "name": "PLC và hệ thống điều khiển",
       "category": { "name": "Cơ điện tử", "slug": "mechatronics" },
       "tag": ["PLC", "Điều khiển"],
@@ -115,7 +115,7 @@
     },
     {
       "id": "course~mecha-03",
-      "imageUrl": "https://i.imgur.com/RobotArm.jpg",
+      "imageUrl": "https://picsum.photos/300/200?random=1",
       "name": "Thiết kế cánh tay robot",
       "category": { "name": "Cơ điện tử", "slug": "mechatronics" },
       "tag": ["Robot"],
@@ -125,7 +125,7 @@
     },
     {
       "id": "course~mecha-04",
-      "imageUrl": "https://i.imgur.com/SensorSystem.jpg",
+      "imageUrl": "https://picsum.photos/300/200?random=1",
       "name": "Hệ thống cảm biến công nghiệp",
       "category": { "name": "Cơ điện tử", "slug": "mechatronics" },
       "tag": ["Cảm biến"],
@@ -136,7 +136,7 @@
 
     {
       "id": "course~robot-01",
-      "imageUrl": "https://i.imgur.com/IndustrialRobot.jpg",
+      "imageUrl": "https://picsum.photos/300/200?random=1",
       "name": "Lập trình robot công nghiệp",
       "category": { "name": "Tự động hóa robot", "slug": "robot-automation" },
       "tag": ["Robot"],
@@ -146,7 +146,7 @@
     },
     {
       "id": "course~robot-02",
-      "imageUrl": "https://i.imgur.com/RobotVision.jpg",
+      "imageUrl": "https://picsum.photos/300/200?random=1",
       "name": "Thị giác máy cho robot",
       "category": { "name": "Tự động hóa robot", "slug": "robot-automation" },
       "tag": ["AI", "Vision"],
@@ -156,7 +156,7 @@
     },
     {
       "id": "course~robot-03",
-      "imageUrl": "https://i.imgur.com/AGVSystem.jpg",
+      "imageUrl": "https://picsum.photos/300/200?random=1",
       "name": "Hệ thống AGV trong nhà máy",
       "category": { "name": "Tự động hóa robot", "slug": "robot-automation" },
       "tag": ["AGV"],
@@ -166,7 +166,7 @@
     },
     {
       "id": "course~robot-04",
-      "imageUrl": "https://i.imgur.com/RobotSafety.jpg",
+      "imageUrl": "https://picsum.photos/300/200?random=1",
       "name": "An toàn robot công nghiệp",
       "category": { "name": "Tự động hóa robot", "slug": "robot-automation" },
       "tag": ["An toàn"],
@@ -177,7 +177,7 @@
 
     {
       "id": "course~energy-01",
-      "imageUrl": "https://i.imgur.com/SolarEnergy.jpg",
+      "imageUrl": "https://picsum.photos/300/200?random=1",
       "name": "Hệ thống điện năng lượng mặt trời",
       "category": { "name": "Năng lượng", "slug": "energy" },
       "tag": ["Solar"],
@@ -187,7 +187,7 @@
     },
     {
       "id": "course~energy-02",
-      "imageUrl": "https://i.imgur.com/WindEnergy.jpg",
+      "imageUrl": "https://picsum.photos/300/200?random=1",
       "name": "Nguyên lý điện gió",
       "category": { "name": "Năng lượng", "slug": "energy" },
       "tag": ["Wind"],
@@ -197,7 +197,7 @@
     },
     {
       "id": "course~energy-03",
-      "imageUrl": "https://i.imgur.com/SmartGrid.jpg",
+      "imageUrl": "https://picsum.photos/300/200?random=1",
       "name": "Lưới điện thông minh",
       "category": { "name": "Năng lượng", "slug": "energy" },
       "tag": ["Smart Grid"],
@@ -207,7 +207,7 @@
     },
     {
       "id": "course~energy-04",
-      "imageUrl": "https://i.imgur.com/EnergyStorage.jpg",
+      "imageUrl": "https://picsum.photos/300/200?random=1",
       "name": "Hệ thống lưu trữ năng lượng",
       "category": { "name": "Năng lượng", "slug": "energy" },
       "tag": ["Battery"],
@@ -218,7 +218,7 @@
 
     {
       "id": "course~cad-01",
-      "imageUrl": "https://i.imgur.com/CADDesign.jpg",
+      "imageUrl": "https://picsum.photos/300/200?random=1",
       "name": "Thiết kế CAD cơ khí",
       "category": { "name": "CAD/CAM/CAE", "slug": "cad-cam-cae" },
       "tag": ["CAD"],
@@ -228,7 +228,7 @@
     },
     {
       "id": "course~cad-02",
-      "imageUrl": "https://i.imgur.com/CAMMachining.jpg",
+      "imageUrl": "https://picsum.photos/300/200?random=1",
       "name": "Lập trình gia công CAM",
       "category": { "name": "CAD/CAM/CAE", "slug": "cad-cam-cae" },
       "tag": ["CAM"],
@@ -238,7 +238,7 @@
     },
     {
       "id": "course~cad-03",
-      "imageUrl": "https://i.imgur.com/CAEAnalysis.jpg",
+      "imageUrl": "https://picsum.photos/300/200?random=1",
       "name": "Phân tích CAE kết cấu",
       "category": { "name": "CAD/CAM/CAE", "slug": "cad-cam-cae" },
       "tag": ["CAE"],
@@ -248,7 +248,7 @@
     },
     {
       "id": "course~cad-04",
-      "imageUrl": "https://i.imgur.com/CNCSystem.jpg",
+      "imageUrl": "https://picsum.photos/300/200?random=1",
       "name": "Vận hành máy CNC",
       "category": { "name": "CAD/CAM/CAE", "slug": "cad-cam-cae" },
       "tag": ["CNC"],
@@ -258,7 +258,7 @@
     },
     {
       "id": "course~practice-01",
-      "imageUrl": "https://images.unsplash.com/photo-1581092334651-ddf26d9a09d0",
+      "imageUrl": "https://picsum.photos/300/200?random=1",
       "name": "Thực hành lắp ráp cơ khí cơ bản",
       "category": {
         "name": "Kỹ năng thực hành",
@@ -271,7 +271,7 @@
     },
     {
       "id": "course~practice-02",
-      "imageUrl": "https://images.unsplash.com/photo-1581092160607-ee22621dd758",
+      "imageUrl": "https://picsum.photos/300/200?random=1",
       "name": "Thực hành đấu nối điện công nghiệp",
       "category": {
         "name": "Kỹ năng thực hành",
@@ -284,7 +284,7 @@
     },
     {
       "id": "course~practice-03",
-      "imageUrl": "https://images.unsplash.com/photo-1581092580497-e0d23cbdf1dc",
+      "imageUrl": "https://picsum.photos/300/200?random=1",
       "name": "Thực hành vận hành máy CNC",
       "category": {
         "name": "Kỹ năng thực hành",
@@ -297,7 +297,7 @@
     },
     {
       "id": "course~practice-04",
-      "imageUrl": "https://images.unsplash.com/photo-1581090700227-1e37b190418e",
+      "imageUrl": "https://picsum.photos/300/200?random=1",
       "name": "Thực hành bảo trì và sửa chữa thiết bị",
       "category": {
         "name": "Kỹ năng thực hành",
@@ -310,7 +310,7 @@
     },
     {
       "id": "course~3d-01",
-      "imageUrl": "https://images.unsplash.com/photo-1581091215367-59ab6f6c8b8b",
+      "imageUrl": "https://picsum.photos/300/200?random=1",
       "name": "Bài giảng 3D cấu tạo động cơ ô tô",
       "category": {
         "name": "Bài giảng 3D",
@@ -323,7 +323,7 @@
     },
     {
       "id": "course~3d-02",
-      "imageUrl": "https://images.unsplash.com/photo-1581092160607-ee22621dd758",
+      "imageUrl": "https://picsum.photos/300/200?random=1",
       "name": "Bài giảng 3D hệ thống điện công nghiệp",
       "category": {
         "name": "Bài giảng 3D",
@@ -336,7 +336,7 @@
     },
     {
       "id": "course~3d-03",
-      "imageUrl": "https://images.unsplash.com/photo-1603380353725-f8a03a4c0f22",
+      "imageUrl": "https://picsum.photos/300/200?random=1",
       "name": "Bài giảng 3D robot công nghiệp",
       "category": {
         "name": "Bài giảng 3D",
@@ -349,7 +349,7 @@
     },
     {
       "id": "course~3d-04",
-      "imageUrl": "https://images.unsplash.com/photo-1581090700227-1e37b190418e",
+      "imageUrl": "https://picsum.photos/300/200?random=1",
       "name": "Bài giảng 3D mô phỏng dây chuyền sản xuất",
       "category": {
         "name": "Bài giảng 3D",
