@@ -1,0 +1,40 @@
+{
+  "courses": [
+    {
+      "id": "course~ejOz7RDUEei99hK0xs-tsg",
+      "imageUrl": "https://oto.edu.vn/wp-content/uploads/2022/06/loi-ich-khi-dai-tu-dong-co.jpg",
+      "name": "Kỹ năng Tháo động cơ xăng",
+      "tag": ["Tháo lắp động cơ"],
+      "productDifficultyLevel": "Trung cấp",
+      "numProductRatings": 39214,
+      "avgProductRating": 4.605345029836283
+    },
+    {
+      "id": "course~fYuElDEgEeiCvhLLCIZW_A",
+      "imageUrl": "https://funix.edu.vn/wp-content/uploads/2022/10/Robot-Ai-8.jpg",
+      "name": "Kỹ năng Lập trình robot",
+      "tag": ["Lập trình"],
+      "productDifficultyLevel": "Cơ bản",
+      "numProductRatings": 18645,
+      "avgProductRating": 4.6828104049342985
+    },
+    {
+      "id": "course~dW-LBifIEe2ebw7xojjXvw",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo90HckUXqn5UHqAE54UsAUWwcPqwXyA4VCQ&s",
+      "name": "Kỹ năng Lắp ráp mạch điện",
+      "tag": ["Lắp ráp", "Điện tử"],
+      "productDifficultyLevel": "Nâng cao",
+      "numProductRatings": 1385,
+      "avgProductRating": 4.774007220216607
+    },
+    {
+      "id": "s12n~xKZ-Rh0LEeaVXQ4hxYGBZw",
+      "imageUrl": "https://mayphatdienviethung.com/wp-content/uploads/2021/01/bao-duong-may-phat-dien-2.jpg",
+      "name": "Kỹ năng Bảo dưỡng máy phát",
+      "tag": ["Bảo dưỡng", "Điện tử"],
+      "productDifficultyLevel": "Trung Cấp",
+      "numProductRatings": 33875,
+      "avgProductRating": 4.493703321033209
+    }
+  ]
+}
