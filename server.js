@@ -20,10 +20,8 @@ server.use((req, res, next) => {
 //API get course category
 server.get("/courses/:categorySlug", (req, res) => {
   const { categorySlug } = req.params;
-  const { _page = 1, _limit = 10 } = req.query;
-
-  const page = Number(_page);
-  const limit = Number(_limit);
+  const page = Number(req.query.page) || 1;
+  const limit = Number(req.query.limit) || 15;
 
   const db = router.db;
 
@@ -56,7 +54,7 @@ server.get("/courses/:categorySlug/:courseId", (req, res) => {
   const course = db
     .get("courses")
     .find(
-      (item) => item.id === courseId && item.category?.slug === categorySlug
+      (item) => item.id === courseId && item.category?.slug === categorySlug,
     )
     .value();
 

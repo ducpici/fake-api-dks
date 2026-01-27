@@ -15,7 +15,7 @@
     },
     {
       "id": "course~fYuElDEgEeiCvhLLCIZW_A",
-      "imageUrl": "https://picsum.photos/300/200?random=1",
+      "imageUrl": "https://picsum.photos/300/200?random=2",
       "name": "Kỹ năng Lập trình robot",
       "category": {
         "name": "Điện công nghiệp",
@@ -28,7 +28,7 @@
     },
     {
       "id": "course~dW-LBifIEe2ebw7xojjXvw",
-      "imageUrl": "https://picsum.photos/300/200?random=1",
+      "imageUrl": "https://picsum.photos/300/200?random=3",
       "name": "Kỹ năng Lắp ráp mạch điện",
       "category": {
         "name": "Điện công nghiệp",
@@ -41,7 +41,7 @@
     },
     {
       "id": "s12n~xKZ-Rh0LEeaVXQ4hxYGBZw",
-      "imageUrl": "https://picsum.photos/300/200?random=1",
+      "imageUrl": "https://picsum.photos/300/200?random=4",
       "name": "Kỹ năng Bảo dưỡng máy phát",
       "category": {
         "name": "Điện công nghiệp",
@@ -53,8 +53,151 @@
       "avgProductRating": 4.493703321033209
     },
     {
+      "id": "course~a1Bz7RDUEei99hK0xs-001",
+      "imageUrl": "https://picsum.photos/300/200?random=2",
+      "name": "Kỹ năng Lắp ráp động cơ xăng",
+      "category": {
+        "name": "Điện công nghiệp",
+        "slug": "industrial-electric"
+      },
+      "tag": ["Lắp ráp động cơ"],
+      "productDifficultyLevel": "Trung cấp",
+      "numProductRatings": 21540,
+      "avgProductRating": 4.42
+    },
+    {
+      "id": "course~a1Bz7RDUEei99hK0xs-002",
+      "imageUrl": "https://picsum.photos/300/200?random=3",
+      "name": "Bảo dưỡng hệ thống điện công nghiệp",
+      "category": {
+        "name": "Điện công nghiệp",
+        "slug": "industrial-electric"
+      },
+      "tag": ["Bảo dưỡng điện"],
+      "productDifficultyLevel": "Cơ bản",
+      "numProductRatings": 18420,
+      "avgProductRating": 4.31
+    },
+    {
+      "id": "course~a1Bz7RDUEei99hK0xs-003",
+      "imageUrl": "https://picsum.photos/300/200?random=4",
+      "name": "Chẩn đoán lỗi động cơ xăng",
+      "category": {
+        "name": "Điện công nghiệp",
+        "slug": "industrial-electric"
+      },
+      "tag": ["Chẩn đoán động cơ"],
+      "productDifficultyLevel": "Nâng cao",
+      "numProductRatings": 26781,
+      "avgProductRating": 4.68
+    },
+    {
+      "id": "course~a1Bz7RDUEei99hK0xs-004",
+      "imageUrl": "https://picsum.photos/300/200?random=5",
+      "name": "Kỹ thuật kiểm tra hệ thống đánh lửa",
+      "category": {
+        "name": "Điện công nghiệp",
+        "slug": "industrial-electric"
+      },
+      "tag": ["Đánh lửa"],
+      "productDifficultyLevel": "Trung cấp",
+      "numProductRatings": 19833,
+      "avgProductRating": 4.37
+    },
+    {
+      "id": "course~a1Bz7RDUEei99hK0xs-005",
+      "imageUrl": "https://picsum.photos/300/200?random=6",
+      "name": "Sửa chữa hệ thống khởi động",
+      "category": {
+        "name": "Điện công nghiệp",
+        "slug": "industrial-electric"
+      },
+      "tag": ["Hệ thống khởi động"],
+      "productDifficultyLevel": "Trung cấp",
+      "numProductRatings": 14210,
+      "avgProductRating": 4.29
+    },
+    {
+      "id": "course~a1Bz7RDUEei99hK0xs-006",
+      "imageUrl": "https://picsum.photos/300/200?random=7",
+      "name": "Điện thân xe ô tô cơ bản",
+      "category": {
+        "name": "Điện công nghiệp",
+        "slug": "industrial-electric"
+      },
+      "tag": ["Điện thân xe"],
+      "productDifficultyLevel": "Cơ bản",
+      "numProductRatings": 17654,
+      "avgProductRating": 4.18
+    },
+    {
+      "id": "course~a1Bz7RDUEei99hK0xs-007",
+      "imageUrl": "https://picsum.photos/300/200?random=8",
+      "name": "Kỹ năng tháo lắp hộp số",
+      "category": {
+        "name": "Điện công nghiệp",
+        "slug": "industrial-electric"
+      },
+      "tag": ["Hộp số"],
+      "productDifficultyLevel": "Nâng cao",
+      "numProductRatings": 30987,
+      "avgProductRating": 4.71
+    },
+    {
+      "id": "course~a1Bz7RDUEei99hK0xs-008",
+      "imageUrl": "https://picsum.photos/300/200?random=9",
+      "name": "Bảo dưỡng hệ thống làm mát động cơ",
+      "category": {
+        "name": "Điện công nghiệp",
+        "slug": "industrial-electric"
+      },
+      "tag": ["Làm mát động cơ"],
+      "productDifficultyLevel": "Trung cấp",
+      "numProductRatings": 16342,
+      "avgProductRating": 4.33
+    },
+    {
+      "id": "course~a1Bz7RDUEei99hK0xs-009",
+      "imageUrl": "https://picsum.photos/300/200?random=10",
+      "name": "Sửa chữa hệ thống phun xăng điện tử",
+      "category": {
+        "name": "Điện công nghiệp",
+        "slug": "industrial-electric"
+      },
+      "tag": ["Phun xăng điện tử"],
+      "productDifficultyLevel": "Nâng cao",
+      "numProductRatings": 28765,
+      "avgProductRating": 4.66
+    },
+    {
+      "id": "course~a1Bz7RDUEei99hK0xs-010",
+      "imageUrl": "https://picsum.photos/300/200?random=11",
+      "name": "Thực hành đo kiểm mạch điện công nghiệp",
+      "category": {
+        "name": "Điện công nghiệp",
+        "slug": "industrial-electric"
+      },
+      "tag": ["Đo kiểm mạch điện"],
+      "productDifficultyLevel": "Cơ bản",
+      "numProductRatings": 15490,
+      "avgProductRating": 4.22
+    },
+    {
+      "id": "course~a1Bz7RDUEei99hK0xs-011",
+      "imageUrl": "https://picsum.photos/300/200?random=12",
+      "name": "Ứng dụng PLC trong điều khiển động cơ",
+      "category": {
+        "name": "Điện công nghiệp",
+        "slug": "industrial-electric"
+      },
+      "tag": ["PLC", "Điều khiển động cơ"],
+      "productDifficultyLevel": "Nâng cao",
+      "numProductRatings": 33102,
+      "avgProductRating": 4.74
+    },
+    {
       "id": "course~auto-01",
-      "imageUrl": "https://picsum.photos/300/200?random=1",
+      "imageUrl": "https://picsum.photos/300/200?random=5",
       "name": "Kỹ năng Tháo động cơ xăng",
       "category": { "name": "Công nghệ ô tô", "slug": "automotive-technology" },
       "tag": ["Động cơ", "Bảo dưỡng"],
@@ -64,7 +207,7 @@
     },
     {
       "id": "course~auto-02",
-      "imageUrl": "https://picsum.photos/300/200?random=1",
+      "imageUrl": "https://picsum.photos/300/200?random=6",
       "name": "Bảo dưỡng hệ thống truyền động",
       "category": { "name": "Công nghệ ô tô", "slug": "automotive-technology" },
       "tag": ["Truyền động"],
@@ -74,7 +217,7 @@
     },
     {
       "id": "course~auto-03",
-      "imageUrl": "https://picsum.photos/300/200?random=1",
+      "imageUrl": "https://picsum.photos/300/200?random=7",
       "name": "Hệ thống điện ô tô nâng cao",
       "category": { "name": "Công nghệ ô tô", "slug": "automotive-technology" },
       "tag": ["Điện ô tô"],
@@ -84,7 +227,7 @@
     },
     {
       "id": "course~auto-04",
-      "imageUrl": "https://picsum.photos/300/200?random=1",
+      "imageUrl": "https://picsum.photos/300/200?random=8",
       "name": "Chẩn đoán lỗi ô tô bằng thiết bị OBD",
       "category": { "name": "Công nghệ ô tô", "slug": "automotive-technology" },
       "tag": ["Chẩn đoán"],
@@ -92,10 +235,130 @@
       "numProductRatings": 12540,
       "avgProductRating": 4.65
     },
+    {
+      "id": "course~auto-02",
+      "imageUrl": "https://picsum.photos/300/200?random=6",
+      "name": "Kỹ năng Lắp ráp động cơ xăng",
+      "category": { "name": "Công nghệ ô tô", "slug": "automotive-technology" },
+      "tag": ["Động cơ", "Lắp ráp"],
+      "productDifficultyLevel": "Trung cấp",
+      "numProductRatings": 28410,
+      "avgProductRating": 4.48
+    },
+    {
+      "id": "course~auto-03",
+      "imageUrl": "https://picsum.photos/300/200?random=7",
+      "name": "Bảo dưỡng động cơ ô tô định kỳ",
+      "category": { "name": "Công nghệ ô tô", "slug": "automotive-technology" },
+      "tag": ["Bảo dưỡng", "Động cơ"],
+      "productDifficultyLevel": "Cơ bản",
+      "numProductRatings": 19876,
+      "avgProductRating": 4.35
+    },
+    {
+      "id": "course~auto-04",
+      "imageUrl": "https://picsum.photos/300/200?random=8",
+      "name": "Chẩn đoán lỗi động cơ ô tô",
+      "category": { "name": "Công nghệ ô tô", "slug": "automotive-technology" },
+      "tag": ["Chẩn đoán", "Động cơ"],
+      "productDifficultyLevel": "Nâng cao",
+      "numProductRatings": 31742,
+      "avgProductRating": 4.67
+    },
+    {
+      "id": "course~auto-05",
+      "imageUrl": "https://picsum.photos/300/200?random=9",
+      "name": "Sửa chữa hệ thống phun xăng điện tử",
+      "category": { "name": "Công nghệ ô tô", "slug": "automotive-technology" },
+      "tag": ["Phun xăng", "Sửa chữa"],
+      "productDifficultyLevel": "Nâng cao",
+      "numProductRatings": 26430,
+      "avgProductRating": 4.63
+    },
+    {
+      "id": "course~auto-06",
+      "imageUrl": "https://picsum.photos/300/200?random=10",
+      "name": "Bảo dưỡng hệ thống làm mát động cơ",
+      "category": { "name": "Công nghệ ô tô", "slug": "automotive-technology" },
+      "tag": ["Làm mát", "Bảo dưỡng"],
+      "productDifficultyLevel": "Trung cấp",
+      "numProductRatings": 17654,
+      "avgProductRating": 4.41
+    },
+    {
+      "id": "course~auto-07",
+      "imageUrl": "https://picsum.photos/300/200?random=11",
+      "name": "Kỹ thuật kiểm tra hệ thống đánh lửa",
+      "category": { "name": "Công nghệ ô tô", "slug": "automotive-technology" },
+      "tag": ["Đánh lửa", "Kiểm tra"],
+      "productDifficultyLevel": "Trung cấp",
+      "numProductRatings": 20987,
+      "avgProductRating": 4.46
+    },
+    {
+      "id": "course~auto-08",
+      "imageUrl": "https://picsum.photos/300/200?random=12",
+      "name": "Sửa chữa hệ thống khởi động ô tô",
+      "category": { "name": "Công nghệ ô tô", "slug": "automotive-technology" },
+      "tag": ["Khởi động", "Sửa chữa"],
+      "productDifficultyLevel": "Trung cấp",
+      "numProductRatings": 16230,
+      "avgProductRating": 4.32
+    },
+    {
+      "id": "course~auto-09",
+      "imageUrl": "https://picsum.photos/300/200?random=13",
+      "name": "Kỹ năng tháo lắp hộp số ô tô",
+      "category": { "name": "Công nghệ ô tô", "slug": "automotive-technology" },
+      "tag": ["Hộp số", "Tháo lắp"],
+      "productDifficultyLevel": "Nâng cao",
+      "numProductRatings": 29874,
+      "avgProductRating": 4.69
+    },
+    {
+      "id": "course~auto-10",
+      "imageUrl": "https://picsum.photos/300/200?random=14",
+      "name": "Bảo dưỡng hệ thống phanh ô tô",
+      "category": { "name": "Công nghệ ô tô", "slug": "automotive-technology" },
+      "tag": ["Phanh", "Bảo dưỡng"],
+      "productDifficultyLevel": "Cơ bản",
+      "numProductRatings": 18765,
+      "avgProductRating": 4.38
+    },
+    {
+      "id": "course~auto-11",
+      "imageUrl": "https://picsum.photos/300/200?random=15",
+      "name": "Điện thân xe ô tô cơ bản",
+      "category": { "name": "Công nghệ ô tô", "slug": "automotive-technology" },
+      "tag": ["Điện thân xe", "Điện ô tô"],
+      "productDifficultyLevel": "Cơ bản",
+      "numProductRatings": 17432,
+      "avgProductRating": 4.27
+    },
+    {
+      "id": "course~auto-12",
+      "imageUrl": "https://picsum.photos/300/200?random=16",
+      "name": "Ứng dụng ECU trong điều khiển động cơ",
+      "category": { "name": "Công nghệ ô tô", "slug": "automotive-technology" },
+      "tag": ["ECU", "Điều khiển động cơ"],
+      "productDifficultyLevel": "Nâng cao",
+      "numProductRatings": 34521,
+      "avgProductRating": 4.74
+    },
+    {
+      "id": "course~auto-13",
+      "imageUrl": "https://picsum.photos/300/200?random=17",
+      "name": "Thực hành đo kiểm cảm biến ô tô",
+      "category": { "name": "Công nghệ ô tô", "slug": "automotive-technology" },
+      "tag": ["Cảm biến", "Thực hành"],
+      "productDifficultyLevel": "Trung cấp",
+      "numProductRatings": 15698,
+      "avgProductRating": 4.36
+    },
 
     {
       "id": "course~mecha-01",
-      "imageUrl": "https://picsum.photos/300/200?random=1",
+      "imageUrl": "https://picsum.photos/300/200?random=9",
       "name": "Nhập môn Cơ điện tử",
       "category": { "name": "Cơ điện tử", "slug": "mechatronics" },
       "tag": ["Cơ điện tử"],
@@ -105,7 +368,7 @@
     },
     {
       "id": "course~mecha-02",
-      "imageUrl": "https://picsum.photos/300/200?random=1",
+      "imageUrl": "https://picsum.photos/300/200?random=10",
       "name": "PLC và hệ thống điều khiển",
       "category": { "name": "Cơ điện tử", "slug": "mechatronics" },
       "tag": ["PLC", "Điều khiển"],
@@ -115,7 +378,7 @@
     },
     {
       "id": "course~mecha-03",
-      "imageUrl": "https://picsum.photos/300/200?random=1",
+      "imageUrl": "https://picsum.photos/300/200?random=11",
       "name": "Thiết kế cánh tay robot",
       "category": { "name": "Cơ điện tử", "slug": "mechatronics" },
       "tag": ["Robot"],
@@ -125,7 +388,7 @@
     },
     {
       "id": "course~mecha-04",
-      "imageUrl": "https://picsum.photos/300/200?random=1",
+      "imageUrl": "https://picsum.photos/300/200?random=12",
       "name": "Hệ thống cảm biến công nghiệp",
       "category": { "name": "Cơ điện tử", "slug": "mechatronics" },
       "tag": ["Cảm biến"],
@@ -136,7 +399,7 @@
 
     {
       "id": "course~robot-01",
-      "imageUrl": "https://picsum.photos/300/200?random=1",
+      "imageUrl": "https://picsum.photos/300/200?random=13",
       "name": "Lập trình robot công nghiệp",
       "category": { "name": "Tự động hóa robot", "slug": "robot-automation" },
       "tag": ["Robot"],
@@ -146,7 +409,7 @@
     },
     {
       "id": "course~robot-02",
-      "imageUrl": "https://picsum.photos/300/200?random=1",
+      "imageUrl": "https://picsum.photos/300/200?random=14",
       "name": "Thị giác máy cho robot",
       "category": { "name": "Tự động hóa robot", "slug": "robot-automation" },
       "tag": ["AI", "Vision"],
@@ -156,7 +419,7 @@
     },
     {
       "id": "course~robot-03",
-      "imageUrl": "https://picsum.photos/300/200?random=1",
+      "imageUrl": "https://picsum.photos/300/200?random=15",
       "name": "Hệ thống AGV trong nhà máy",
       "category": { "name": "Tự động hóa robot", "slug": "robot-automation" },
       "tag": ["AGV"],
@@ -166,7 +429,7 @@
     },
     {
       "id": "course~robot-04",
-      "imageUrl": "https://picsum.photos/300/200?random=1",
+      "imageUrl": "https://picsum.photos/300/200?random=16",
       "name": "An toàn robot công nghiệp",
       "category": { "name": "Tự động hóa robot", "slug": "robot-automation" },
       "tag": ["An toàn"],
@@ -177,7 +440,7 @@
 
     {
       "id": "course~energy-01",
-      "imageUrl": "https://picsum.photos/300/200?random=1",
+      "imageUrl": "https://picsum.photos/300/200?random=17",
       "name": "Hệ thống điện năng lượng mặt trời",
       "category": { "name": "Năng lượng", "slug": "energy" },
       "tag": ["Solar"],
@@ -187,7 +450,7 @@
     },
     {
       "id": "course~energy-02",
-      "imageUrl": "https://picsum.photos/300/200?random=1",
+      "imageUrl": "https://picsum.photos/300/200?random=18",
       "name": "Nguyên lý điện gió",
       "category": { "name": "Năng lượng", "slug": "energy" },
       "tag": ["Wind"],
@@ -197,7 +460,7 @@
     },
     {
       "id": "course~energy-03",
-      "imageUrl": "https://picsum.photos/300/200?random=1",
+      "imageUrl": "https://picsum.photos/300/200?random=19",
       "name": "Lưới điện thông minh",
       "category": { "name": "Năng lượng", "slug": "energy" },
       "tag": ["Smart Grid"],
@@ -207,7 +470,7 @@
     },
     {
       "id": "course~energy-04",
-      "imageUrl": "https://picsum.photos/300/200?random=1",
+      "imageUrl": "https://picsum.photos/300/200?random=20",
       "name": "Hệ thống lưu trữ năng lượng",
       "category": { "name": "Năng lượng", "slug": "energy" },
       "tag": ["Battery"],
@@ -218,7 +481,7 @@
 
     {
       "id": "course~cad-01",
-      "imageUrl": "https://picsum.photos/300/200?random=1",
+      "imageUrl": "https://picsum.photos/300/200?random=21",
       "name": "Thiết kế CAD cơ khí",
       "category": { "name": "CAD/CAM/CAE", "slug": "cad-cam-cae" },
       "tag": ["CAD"],
@@ -228,7 +491,7 @@
     },
     {
       "id": "course~cad-02",
-      "imageUrl": "https://picsum.photos/300/200?random=1",
+      "imageUrl": "https://picsum.photos/300/200?random=22",
       "name": "Lập trình gia công CAM",
       "category": { "name": "CAD/CAM/CAE", "slug": "cad-cam-cae" },
       "tag": ["CAM"],
@@ -238,7 +501,7 @@
     },
     {
       "id": "course~cad-03",
-      "imageUrl": "https://picsum.photos/300/200?random=1",
+      "imageUrl": "https://picsum.photos/300/200?random=23",
       "name": "Phân tích CAE kết cấu",
       "category": { "name": "CAD/CAM/CAE", "slug": "cad-cam-cae" },
       "tag": ["CAE"],
@@ -248,7 +511,7 @@
     },
     {
       "id": "course~cad-04",
-      "imageUrl": "https://picsum.photos/300/200?random=1",
+      "imageUrl": "https://picsum.photos/300/200?random=24",
       "name": "Vận hành máy CNC",
       "category": { "name": "CAD/CAM/CAE", "slug": "cad-cam-cae" },
       "tag": ["CNC"],
@@ -258,7 +521,7 @@
     },
     {
       "id": "course~practice-01",
-      "imageUrl": "https://picsum.photos/300/200?random=1",
+      "imageUrl": "https://picsum.photos/300/200?random=25",
       "name": "Thực hành lắp ráp cơ khí cơ bản",
       "category": {
         "name": "Kỹ năng thực hành",
@@ -271,7 +534,7 @@
     },
     {
       "id": "course~practice-02",
-      "imageUrl": "https://picsum.photos/300/200?random=1",
+      "imageUrl": "https://picsum.photos/300/200?random=26",
       "name": "Thực hành đấu nối điện công nghiệp",
       "category": {
         "name": "Kỹ năng thực hành",
@@ -284,7 +547,7 @@
     },
     {
       "id": "course~practice-03",
-      "imageUrl": "https://picsum.photos/300/200?random=1",
+      "imageUrl": "https://picsum.photos/300/200?random=27",
       "name": "Thực hành vận hành máy CNC",
       "category": {
         "name": "Kỹ năng thực hành",
@@ -297,7 +560,7 @@
     },
     {
       "id": "course~practice-04",
-      "imageUrl": "https://picsum.photos/300/200?random=1",
+      "imageUrl": "https://picsum.photos/300/200?random=28",
       "name": "Thực hành bảo trì và sửa chữa thiết bị",
       "category": {
         "name": "Kỹ năng thực hành",
@@ -310,7 +573,7 @@
     },
     {
       "id": "course~3d-01",
-      "imageUrl": "https://picsum.photos/300/200?random=1",
+      "imageUrl": "https://picsum.photos/300/200?random=29",
       "name": "Bài giảng 3D cấu tạo động cơ ô tô",
       "category": {
         "name": "Bài giảng 3D",
@@ -323,7 +586,7 @@
     },
     {
       "id": "course~3d-02",
-      "imageUrl": "https://picsum.photos/300/200?random=1",
+      "imageUrl": "https://picsum.photos/300/200?random=30",
       "name": "Bài giảng 3D hệ thống điện công nghiệp",
       "category": {
         "name": "Bài giảng 3D",
@@ -336,7 +599,7 @@
     },
     {
       "id": "course~3d-03",
-      "imageUrl": "https://picsum.photos/300/200?random=1",
+      "imageUrl": "https://picsum.photos/300/200?random=31",
       "name": "Bài giảng 3D robot công nghiệp",
       "category": {
         "name": "Bài giảng 3D",
@@ -349,7 +612,7 @@
     },
     {
       "id": "course~3d-04",
-      "imageUrl": "https://picsum.photos/300/200?random=1",
+      "imageUrl": "https://picsum.photos/300/200?random=32",
       "name": "Bài giảng 3D mô phỏng dây chuyền sản xuất",
       "category": {
         "name": "Bài giảng 3D",
